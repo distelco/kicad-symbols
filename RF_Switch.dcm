@@ -48,6 +48,12 @@ K rf spdt switch
 F http://www.skyworksinc.com/uploads/documents/AS179_92LF_200176H.pdf
 $ENDCMP
 #
+$CMP HMC253AQS24
+D Gaas MMIC sP8T NON-REFLECTIVE SWITCH, DC - 2.5 GHz
+K rf switch
+F https://www.analog.com/media/en/technical-documentation/data-sheets/hmc253aqs24.pdf
+$ENDCMP
+#
 $CMP HMC7992
 D SP4T 100MHz-6GHz absorptive switch, 50 Ohm, LFCSP-16
 K rf switch sp4t absorptive
