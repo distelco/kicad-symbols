@@ -1146,6 +1146,114 @@ K XP_POWER DC/DC isolated Converter module
 F https://www.xppower.com/pdfs/SF_IH.pdf
 $ENDCMP
 #
+$CMP IMM0505D12
+D XP Power 5W Isolated DC/DC Converter Module, ±12V Output Voltage, 4.5-9V Input Voltage
+K DC/DC Converter
+F https://www.xppower.com/portals/0/pdfs/SF_IMM05.pdf
+$ENDCMP
+#
+$CMP IMM0505D15
+D XP Power 5W Isolated DC/DC Converter Module, ±15V Output Voltage, 9-36V Input Voltage
+K DC/DC Converter
+F https://www.xppower.com/Portals/0/pdfs/SF_ISU02.pdf
+$ENDCMP
+#
+$CMP IMM0505S05
+D XP Power 5W Isolated DC/DC Converter Module, 5V Output Voltage, 4.5-9V Input Voltage
+K DC/DC Converter
+F https://www.xppower.com/portals/0/pdfs/SF_IMM05.pdf
+$ENDCMP
+#
+$CMP IMM0505S12
+D XP Power 5W Isolated DC/DC Converter Module,12V Output Voltage, 4.5-9V Input Voltage
+K DC/DC Converter
+F https://www.xppower.com/Portals/0/pdfs/SF_ISU02.pdf
+$ENDCMP
+#
+$CMP IMM0505S15
+D XP Power 5W Isolated DC/DC Converter Module, 15V Output Voltage, 4.5-9V Input Voltage
+K DC/DC Converter
+F https://www.xppower.com/Portals/0/pdfs/SF_ISU02.pdf
+$ENDCMP
+#
+$CMP IMM0505S3V3
+D XP Power 5W Isolated DC/DC Converter Module, 3.3V Output Voltage, 4.5-9V Input Voltage
+K DC/DC Converter
+F https://www.xppower.com/Portals/0/pdfs/SF_ISU02.pdf
+$ENDCMP
+#
+$CMP IMM0512D12
+D XP Power 5W Isolated DC/DC Converter Module, ±12V Output Voltage, 9-18V Input Voltage
+K DC/DC Converter
+F https://www.xppower.com/Portals/0/pdfs/SF_ISU02.pdf
+$ENDCMP
+#
+$CMP IMM0512D15
+D XP Power 5W Isolated DC/DC Converter Module, ±15V Output Voltage, 9-18V Input Voltage
+K DC/DC Converter
+F https://www.xppower.com/Portals/0/pdfs/SF_ISU02.pdf
+$ENDCMP
+#
+$CMP IMM0512S05
+D XP Power 5W Isolated DC/DC Converter Module, 5V Output Voltage, 9-18V Input Voltage
+K DC/DC Converter
+F https://www.xppower.com/Portals/0/pdfs/SF_ISU02.pdf
+$ENDCMP
+#
+$CMP IMM0512S12
+D XP Power 5W Isolated DC/DC Converter Module, 12V Output Voltage, 9-18V Input Voltage
+K DC/DC Converter
+F https://www.xppower.com/Portals/0/pdfs/SF_ISU02.pdf
+$ENDCMP
+#
+$CMP IMM0512S15
+D XP Power 5W Isolated DC/DC Converter Module, 15V Output Voltage, 9-18V Input Voltage
+K DC/DC Converter
+F https://www.xppower.com/Portals/0/pdfs/SF_ISU02.pdf
+$ENDCMP
+#
+$CMP IMM0512S3V3
+D XP Power 5W Isolated DC/DC Converter Module, 3.3V Output Voltage, 9-18V Input Voltage
+K DC/DC Converter
+F https://www.xppower.com/Portals/0/pdfs/SF_ISU02.pdf
+$ENDCMP
+#
+$CMP IMM0524D12
+D XP Power 5W Isolated DC/DC Converter Module, ±12V Output Voltage, 18-36V Input Voltage
+K DC/DC Converter
+F https://www.xppower.com/Portals/0/pdfs/SF_ISU02.pdf
+$ENDCMP
+#
+$CMP IMM0524D15
+D XP Power 5W Isolated DC/DC Converter Module, ±15V Output Voltage, 18-36V Input Voltage
+K DC/DC Converter
+F https://www.xppower.com/Portals/0/pdfs/SF_ISU02.pdf
+$ENDCMP
+#
+$CMP IMM0524S05
+D XP Power 5W Isolated DC/DC Converter Module, 5V Output Voltage, 18-36V Input Voltage
+K DC/DC Converter
+F https://www.xppower.com/Portals/0/pdfs/SF_ISU02.pdf
+$ENDCMP
+#
+$CMP IMM0524S12
+D XP Power 5W Isolated DC/DC Converter Module, 12V Output Voltage, 18-36V Input Voltage
+K DC/DC Converter
+F https://www.xppower.com/Portals/0/pdfs/SF_ISU02.pdf
+$ENDCMP
+#
+$CMP IMM0524S15
+D XP Power 5W Isolated DC/DC Converter Module, 15V Output Voltage, 18-36V Input Voltage
+K DC/DC Converter
+F https://www.xppower.com/Portals/0/pdfs/SF_ISU02.pdf
+$ENDCMP
+#
+$CMP IMM0524S3V3
+D XP Power 5W Isolated DC/DC Converter Module, 3.3V Output Voltage, 18-36V Input Voltage
+K DC/DC Converter
+F https://www.xppower.com/Portals/0/pdfs/SF_ISU02.pdf
+$ENDCMP
+#
 $CMP ISU0205D12
 D XP Power 2W Isolated DC/DC Dual Supply Converter Module, ±12V Output Voltage, 4.5-12V Input Voltage
 K DC/DC Converter dual
