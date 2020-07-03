@@ -42,6 +42,12 @@ K relays solenoids lamps steppers servos LEDs
 F http://toshiba.semicon-storage.com/info/docget.jsp?did=30523&prodName=TBD62783APG
 $ENDCMP
 #
+$CMP TPL7407L
+D 40-V 7-Channel Low Side Driver, SOIC16/TSSOP16
+K darlington transistor array
+F https://www.ti.com/lit/ds/symlink/tpl7407l.pdf?HQS=TI-null-null-digikeymode-df-pf-null-wwe&ts=1593791579531
+$ENDCMP
+#
 $CMP ULN2002
 D High Voltage, High Current Darlington Transistor Arrays, SOIC16/SOIC16W/DIP16/TSSOP16
 K darlington transistor array
