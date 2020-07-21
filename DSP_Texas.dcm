@@ -1,5 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP TMS320F28069FPZTR
+D 16bit DSP Controller 32Kx16B Flash 2.5Kx16B RAM, LQFP-100
+K 16BIT DSP TMS320F28
+F https://www.ti.com/lit/ds/symlink/tms320f28069.pdf
+$ENDCMP
+#
+$CMP TMS320F28069M
+D 16bit DSP Controller 32Kx16B Flash 2.5Kx16B RAM, PQFP-100
+K 16BIT DSP TMS320F28
+F https://www.ti.com/lit/ds/symlink/tms320f28069.pdf
+$ENDCMP
+#
 $CMP TMS320LF2406PZ
 D 16bit DSP Controller 32Kx16B Flash 2.5Kx16B RAM, Obsolete NRND, PQFP-100
 K 16BIT DSP TMS320 Obsolete
