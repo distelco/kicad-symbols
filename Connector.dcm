@@ -1506,6 +1506,12 @@ K 8P8C RJ female connector
 F ~
 $ENDCMP
 #
+$CMP RJ45_Wiznet_RB1-125BAG1A
+D 1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX
+K single port ethernet transformer
+F https://www.wiznet.hk/en/index.php?controller=attachment&id_attachment=1
+$ENDCMP
+#
 $CMP RJ48
 D RJ connector, 8P4C (8 positions 4 connected)
 K 8P4C RJ female connector
