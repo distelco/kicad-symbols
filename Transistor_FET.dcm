@@ -1338,6 +1338,12 @@ K N-Channel MOSFET
 F http://www.diodes.com/assets/Datasheets/DMG3418L.pdf
 $ENDCMP
 #
+$CMP DMG9926UDM
+D 4.2A Id, 20V Vds, Common-Drain, Dual Half Bridge N-Channel MOSFET, 28mOhm Ron, SOT-23-6
+K Dual Half Bridge N-Channel MOSFET Logic Level Common Drain
+F https://www.diodes.com/assets/Datasheets/ds31770.pdf
+$ENDCMP
+#
 $CMP DMN10H220L
 D 1.6A Id, 100V Vds, N-Channel MOSFET, SOT-23
 K N-Channel MOSFET
@@ -1642,6 +1648,12 @@ $CMP FDMT80080DC
 D 36A Id, 80V Vds, N-Channel Dual Cool PowerTrench MOSFET, 1.35mOhm Ron, 273nC Qgmax, -55 to 150 °C, 8x8mm MLP
 K dual-cool-powertrench MOSFET fairchild
 F https://www.onsemi.com/pub/Collateral/FDMT80080DC-D.pdf
+$ENDCMP
+#
+$CMP FDN340P
+D 2A Id, 20V Vds, P-Channel MOSFET, 70mOhm Ron, SOT-23
+K P-Channel MOSFET
+F https://www.onsemi.com/pub/Collateral/FDN340P-D.PDF
 $ENDCMP
 #
 $CMP FDS2734
