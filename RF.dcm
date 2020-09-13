@@ -96,6 +96,12 @@ K power splitter combiner
 F https://www.minicircuits.com/pdfs/LRPS-2-1.pdf
 $ENDCMP
 #
+$CMP LT5537
+D Wide Dynamic Range RF/IF Log Detector
+K RF RMS power detector log decibel dB
+F https://www.analog.com/media/en/technical-documentation/data-sheets/5537fa.pdf
+$ENDCMP
+#
 $CMP MAADSS0008
 D 0-2GHz, 15dB step attenuator, SOT-23-5
 K RF attenuator
