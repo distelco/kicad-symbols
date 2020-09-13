@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AD8319
+D 1 MHz to 10 GHz, 45 dB Log Detector/Controller
+K RF detector
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD8319.pdf
+$ENDCMP
+#
 $CMP ADC-10-1R
 D Directional Coupler, 5 to 900 MHz, 10 dB Coupling, 50 Ohm, Mini-Circuits CD542
 K Directional Coupler
